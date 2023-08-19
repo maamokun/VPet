@@ -1,15 +1,15 @@
 尝试加载游戏MOD#Try loading game MOD:|
-你知道吗? 鼠标右键可以打开菜单栏#Do you know? Mouse right click to open the menu bar:|
-如果你觉得目前功能太少,那就多挂会机. 宠物会自己动的#If you feel that there are too few functions at the moment, just keep AFK more. Pets will move on their own:|
-你知道吗? 你可以在设置里面修改游戏的缩放比例#Do you know? You can modify the game's zoom ratio in the settings:|
+你知道吗? 鼠标右键可以打开菜单栏#Did you know that you can right click me to open the menu bar?:|
+如果你觉得目前功能太少,那就多挂会机. 宠物会自己动的#If there isn't enough for you to do, just leave me be and I'll move on my own!:|
+你知道吗? 你可以在设置里面修改游戏的缩放比例#Did you know you can modify the game's zoom ratio in the settings?:|
 想要宠物不乱动? 设置里可以设置智能移动或者关闭移动#Want your pet to stay still? Smart moving can be set or disabled in the settings:|
-有建议/游玩反馈? 来 菜单-系统-反馈中心 反馈吧#Do you have any suggestions/game feedback? Let's go to the Menu - System - Feedback Hub for feedback:|
-你现在乱点说话是说话系统的一部分,不过还没做,在做了在做了ing#Your randomly tapping to speaking is part of the speaking system, but not do yet. It doing yet.:|
+有建议/游玩反馈? 来 菜单-系统-反馈中心 反馈吧#Do you have any suggestions/game feedback? Let's go to the Menu - System - Feedback Hub and submit feedback:|
+你现在乱点说话是说话系统的一部分,不过还没做,在做了在做了ing#Randomly tapping to speak is part of the speaking system, but hasn't been completed. It has been completed.:|
 你添加了虚拟主播模拟器和虚拟桌宠模拟器到愿望单了吗? 快去加吧#Have you added VUP-Simulator and VPet-Simulator to your wishlist? Go ahead and add it:|
-这游戏开发这么慢,都怪画师太咕了#This game development is so slow, all due to the game artist:|
+这游戏开发这么慢,都怪画师太咕了#Game development is so slow, all thanks to the creativity of the artist:|
 长按脑袋拖动桌宠到你喜欢的任意位置#Hold the head and drag the desktop pet to any position you like:|
-欢迎加入 虚拟主播模拟器群 430081239#This open-source project address in https://github.com/LorisYounger/VPet:|
-关注 {0} 谢谢喵#Subscribe {0} thanks:|
+欢迎加入 虚拟主播模拟器群 430081239#This is an open-source project. You can view the source in https://github.com/LorisYounger/VPet:|
+关注 {0} 谢谢喵#Subscribe to {0} thanks:|
 尝试加载动画和生成缓存#Try loading animations and generating caches:|
 正在加载CGPT#Loading CGPT:|
 设置#Settings:|
@@ -62,9 +62,9 @@ Y轴#Y-axis:|
 使用ChatGPT进行聊天等相关设置#Use ChatGPT for chat and other related settings:|
 使用模式#Usage Patterns:|
 相关功能#Related Features:|
-使用从ChatGPT\r申请的的API#Use API requested\rfrom ChatGPT:|
-需要去OpenAI官网申请#Need to go to the OpenAI official website to apply:|
-使用桌宠开发者\r提供的免费API#Use VPET developer\rprovided free API:|
+使用从ChatGPT\r申请的的API#Use the official\rChatGPT API:|
+需要去OpenAI官网申请#You will need to apply for an API key from OpenAI's website:|
+使用桌宠开发者\r提供的免费API#Use a free API\rprovided by the VPET developer|
 需遵循相关协议法律法规并有聊天字数限制#Applicable agreements, laws and regulations apply, and chat word limits apply:|
 初始化桌宠聊天程序#Initialize VPET chat program:|
 互动#Interact:|
